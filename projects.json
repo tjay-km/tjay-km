@@ -23,6 +23,20 @@
       "what": "Offline-first Android cocktail discovery app",
       "role": "Designed every page, built the profile pages and the cocktail menu with offline-first support",
       "stack": "Kotlin, Firebase"
+    },
+    {
+      "repo": "tjay-km/contract-monthly-claim-system",
+      "name": "CMCS",
+      "what": "Claims system for contract lecturers: submissions, approvals, HR reports and an audit trail",
+      "role": "Solo developer: approval workflow, role-based access, secure document uploads, 53 tests",
+      "stack": "C#, ASP.NET Core 8, EF Core, SQL Server"
+    },
+    {
+      "repo": "tjay-km/fendi",
+      "name": "Fendi",
+      "what": "Multipurpose Discord bot that served 100k+ members at its peak (archived)",
+      "role": "Solo developer: activity leaderboards, moderation and info commands, rotating statuses",
+      "stack": "Python, discord.py, SQLite"
     }
   ]
 }
