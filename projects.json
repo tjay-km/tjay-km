@@ -1,0 +1,28 @@
+{
+  "_about": "Featured projects shown on the profile README. Entries here appear first, in this order. Any public repo you own that has the 'portfolio' topic is added automatically after these.",
+  "username": "tjay-km",
+  "topic": "portfolio",
+  "projects": [
+    {
+      "repo": "tjay-km/globewire",
+      "name": "GlobeWire",
+      "what": "International payment portal with customer and employee portals",
+      "role": "Main developer: authentication, CSRF protection, rate limiting, tamper-evident audit logs",
+      "stack": "Next.js, TypeScript, MongoDB"
+    },
+    {
+      "repo": "GACoutts/XBCIS_WIL_Project",
+      "name": "GoodLiving",
+      "what": "Building management platform for Rawson Property Group (WIL project)",
+      "role": "Led backend: MySQL schema, REST API, JWT and RBAC across 4 user roles",
+      "stack": "React, Node.js, Express, MySQL"
+    },
+    {
+      "repo": "GACoutts/OPSC_cocktail_app",
+      "name": "MixMate",
+      "what": "Offline-first Android cocktail discovery app",
+      "role": "Designed every page, built the profile pages and the cocktail menu with offline-first support",
+      "stack": "Kotlin, Firebase"
+    }
+  ]
+}

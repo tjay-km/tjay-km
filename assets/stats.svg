@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="150" viewBox="0 0 495 150" role="img" aria-label="GitHub stats for tjay-km">
+<style>.t{font:600 16px Segoe UI,Ubuntu,sans-serif;fill:#2ea043}.l{font:400 13px Segoe UI,Ubuntu,sans-serif;fill:#8b949e}.v{font:600 13px Segoe UI,Ubuntu,sans-serif;fill:#c9d1d9}</style>
+<rect x="0.5" y="0.5" width="494" height="149" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="32" class="t">GitHub at a glance</text>
+<text x="20" y="62" class="l">Featured projects</text>
+<text x="200" y="62" class="v" text-anchor="end">3</text>
+<text x="20" y="88" class="l">Public repositories</text>
+<text x="200" y="88" class="v" text-anchor="end">2</text>
+<text x="20" y="114" class="l">Public commits</text>
+<text x="200" y="114" class="v" text-anchor="end">649</text>
+<text x="240" y="62" class="l">Top languages (featured work)</text>
+<rect x="240" y="72" width="109" height="8" fill="#2ea043"/>
+<rect x="349" y="72" width="58" height="8" fill="#a371f7"/>
+<rect x="407" y="72" width="48" height="8" fill="#3178c6"/>
+<rect x="455" y="72" width="20" height="8" fill="#f1e05a"/>
+<rect x="475" y="72" width="2" height="8" fill="#e34c26"/>
+<rect x="477" y="72" width="2" height="8" fill="#8b949e"/>
+<circle cx="245" cy="98" r="5" fill="#2ea043"/>
+<text x="255" y="102" class="v">JavaScript <tspan class="l">46.2%</tspan></text>
+<circle cx="370" cy="98" r="5" fill="#a371f7"/>
+<text x="380" y="102" class="v">Kotlin <tspan class="l">24.9%</tspan></text>
+<circle cx="245" cy="120" r="5" fill="#3178c6"/>
+<text x="255" y="124" class="v">TypeScript <tspan class="l">20.3%</tspan></text>
+<circle cx="370" cy="120" r="5" fill="#f1e05a"/>
+<text x="380" y="124" class="v">CSS <tspan class="l">8.5%</tspan></text>
+<circle cx="245" cy="142" r="5" fill="#e34c26"/>
+<text x="255" y="146" class="v">PowerShell <tspan class="l">0.1%</tspan></text>
+<circle cx="370" cy="142" r="5" fill="#8b949e"/>
+<text x="380" y="146" class="v">HTML <tspan class="l">0.0%</tspan></text>
+</svg>
