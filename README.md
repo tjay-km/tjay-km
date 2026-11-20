@@ -22,8 +22,8 @@ A Computer and Information Science graduate who builds systems that connect netw
 | [GlobeWire](https://github.com/tjay-km/globewire) | International payment portal with customer and employee portals | Main developer: authentication, CSRF protection, rate limiting, tamper-evident audit logs | Next.js, TypeScript, MongoDB |
 | [GoodLiving](https://github.com/GACoutts/XBCIS_WIL_Project) | Building management platform for Rawson Property Group (WIL project) | Led backend: MySQL schema, REST API, JWT and RBAC across 4 user roles | React, Node.js, Express, MySQL |
 | [MixMate](https://github.com/GACoutts/OPSC_cocktail_app) | Offline-first Android cocktail discovery app | Designed every page, built the profile pages and the cocktail menu with offline-first support | Kotlin, Firebase |
-| [contract-monthly-claim-system](https://github.com/tjay-km/contract-monthly-claim-system) | ASP.NET Core 8 MVC claims system for contract lecturers: approvals, HR reporting, audit trail and tests |  | aspnet-core, csharp, entity-framework-core, nunit, sql-server |
-| [fendi](https://github.com/tjay-km/fendi) | Archived multipurpose Discord bot (discord.py 1.7.3) that served 100k+ members at its peak |  | discord-bot, discord-py, python, sqlite |
+| [CMCS](https://github.com/tjay-km/contract-monthly-claim-system) | Claims system for contract lecturers: submissions, approvals, HR reports and an audit trail | Solo developer: approval workflow, role-based access, secure document uploads, 53 tests | C#, ASP.NET Core 8, EF Core, SQL Server |
+| [Fendi](https://github.com/tjay-km/fendi) | Multipurpose Discord bot that served 100k+ members at its peak (archived) | Solo developer: activity leaderboards, moderation and info commands, rotating statuses | Python, discord.py, SQLite |
 <!-- PROJECTS:END -->
 
 ### Tech Stack
